@@ -9,11 +9,11 @@ body{
     justify-content: center;
 }
 .terms-box{
-    max-width: 460px;
+    max-width: 860px;
     background-color: #111;
     color: #fff;
     font-family: "Montserrate";
-    padding: 70px 36px;
+    padding: 80px 66px;
 }
 
 .terms-text{
